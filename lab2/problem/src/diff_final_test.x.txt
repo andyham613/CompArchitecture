@@ -1,0 +1,1328 @@
+------------------cycle 1---------------
+------------------cycle 2---------------
+------------------cycle 3---------------
+------------------cycle 4---------------
+------------------cycle 5---------------
+------------------cycle 6---------------
+------------------cycle 7---------------
+------------------cycle 8---------------
+------------------cycle 9---------------
+------------------cycle 10---------------
+------------------cycle 11---------------
+------------------cycle 12---------------
+------------------cycle 13---------------
+------------------cycle 14---------------
+------------------cycle 15---------------
+5c5
+< PC                : 0x400038
+---
+> PC                : 0x40003c
+------------------cycle 16---------------
+5c5
+< PC                : 0x40003c
+---
+> PC                : 0x400040
+------------------cycle 17---------------
+5c5
+< PC                : 0x400040
+---
+> PC                : 0x400044
+------------------cycle 18---------------
+------------------cycle 19---------------
+4,5c4,5
+< Instruction Retired : 13
+< PC                : 0x400044
+---
+> Instruction Retired : 14
+> PC                : 0x400048
+21c21
+< X14: 0x0
+---
+> X14: 0x124
+------------------cycle 20---------------
+4,5c4,5
+< Instruction Retired : 14
+< PC                : 0x400048
+---
+> Instruction Retired : 15
+> PC                : 0x40004c
+------------------cycle 21---------------
+5c5
+< PC                : 0x40004c
+---
+> PC                : 0x400050
+------------------cycle 22---------------
+4c4
+< Instruction Retired : 15
+---
+> Instruction Retired : 16
+22c22
+< X15: 0x0
+---
+> X15: 0x122
+------------------cycle 23---------------
+4,5c4,5
+< Instruction Retired : 16
+< PC                : 0x400050
+---
+> Instruction Retired : 17
+> PC                : 0x400054
+39c39
+< FLAG_N: 0
+---
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 24---------------
+4,5c4,5
+< Instruction Retired : 17
+< PC                : 0x400054
+---
+> Instruction Retired : 18
+> PC                : 0x400058
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 25---------------
+5c5
+< PC                : 0x400058
+---
+> PC                : 0x40005c
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 26---------------
+4,5c4,5
+< Instruction Retired : 18
+< PC                : 0x40005c
+---
+> Instruction Retired : 19
+> PC                : 0x400060
+23c23
+< X16: 0x0
+---
+> X16: 0x1
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 27---------------
+4,5c4,5
+< Instruction Retired : 19
+< PC                : 0x400060
+---
+> Instruction Retired : 20
+> PC                : 0x400064
+23c23
+< X16: 0x1
+---
+> X16: 0x3
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 28---------------
+4,5c4,5
+< Instruction Retired : 20
+< PC                : 0x400064
+---
+> Instruction Retired : 21
+> PC                : 0x400068
+23c23
+< X16: 0x3
+---
+> X16: 0x6
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 29---------------
+4,5c4,5
+< Instruction Retired : 21
+< PC                : 0x400068
+---
+> Instruction Retired : 22
+> PC                : 0x400070
+23c23
+< X16: 0x6
+---
+> X16: 0xa
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 30---------------
+4,5c4,5
+< Instruction Retired : 22
+< PC                : 0x40006c
+---
+> Instruction Retired : 23
+> PC                : 0x400074
+38,40c38,40
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+< FLAG_Z: 0
+---
+> X31: 0x0
+> FLAG_N: 0
+> FLAG_Z: 1
+------------------cycle 31---------------
+4,5c4,5
+< Instruction Retired : 23
+< PC                : 0x400070
+---
+> Instruction Retired : 24
+> PC                : 0x400078
+------------------cycle 32---------------
+5c5
+< PC                : 0x400074
+---
+> PC                : 0x40007c
+------------------cycle 33---------------
+4,5c4,5
+< Instruction Retired : 24
+< PC                : 0x400078
+---
+> Instruction Retired : 25
+> PC                : 0x400080
+24c24
+< X17: 0x0
+---
+> X17: 0x3
+------------------cycle 34---------------
+4,5c4,5
+< Instruction Retired : 24
+< PC                : 0x40007c
+---
+> Instruction Retired : 26
+> PC                : 0x400088
+24c24
+< X17: 0x0
+---
+> X17: 0x7
+------------------cycle 35---------------
+4,5c4,5
+< Instruction Retired : 25
+< PC                : 0x400080
+---
+> Instruction Retired : 27
+> PC                : 0x40008c
+24c24
+< X17: 0x3
+---
+> X17: 0x7
+39,40c39,40
+< FLAG_N: 0
+< FLAG_Z: 1
+---
+> FLAG_N: 1
+> FLAG_Z: 0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 36---------------
+4,5c4,5
+< Instruction Retired : 26
+< PC                : 0x400084
+---
+> Instruction Retired : 28
+> PC                : 0x400090
+39,40c39,40
+< FLAG_N: 0
+< FLAG_Z: 1
+---
+> FLAG_N: 1
+> FLAG_Z: 0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 37---------------
+4,5c4,5
+< Instruction Retired : 27
+< PC                : 0x400088
+---
+> Instruction Retired : 28
+> PC                : 0x400094
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 38---------------
+4,5c4,5
+< Instruction Retired : 28
+< PC                : 0x40008c
+---
+> Instruction Retired : 29
+> PC                : 0x400098
+25c25
+< X18: 0x0
+---
+> X18: 0x3
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 39---------------
+4,5c4,5
+< Instruction Retired : 28
+< PC                : 0x400090
+---
+> Instruction Retired : 30
+> PC                : 0x400098
+25c25
+< X18: 0x0
+---
+> X18: 0x7
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 40---------------
+4,5c4,5
+< Instruction Retired : 28
+< PC                : 0x400094
+---
+> Instruction Retired : 31
+> PC                : 0x40009c
+25c25
+< X18: 0x0
+---
+> X18: 0x7
+38,40c38,40
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+< FLAG_Z: 0
+---
+> X31: 0x0
+> FLAG_N: 0
+> FLAG_Z: 1
+------------------cycle 41---------------
+4,5c4,5
+< Instruction Retired : 29
+< PC                : 0x400098
+---
+> Instruction Retired : 32
+> PC                : 0x4000a0
+25c25
+< X18: 0x3
+---
+> X18: 0x7
+38,40c38,40
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+< FLAG_Z: 0
+---
+> X31: 0x0
+> FLAG_N: 0
+> FLAG_Z: 1
+------------------cycle 42---------------
+4,5c4,5
+< Instruction Retired : 30
+< PC                : 0x400098
+---
+> Instruction Retired : 32
+> PC                : 0x4000a4
+38,40c38,40
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+< FLAG_Z: 0
+---
+> X31: 0x0
+> FLAG_N: 0
+> FLAG_Z: 1
+------------------cycle 43---------------
+4,5c4,5
+< Instruction Retired : 31
+< PC                : 0x40009c
+---
+> Instruction Retired : 33
+> PC                : 0x4000a8
+26c26
+< X19: 0x0
+---
+> X19: 0x1
+------------------cycle 44---------------
+4,5c4,5
+< Instruction Retired : 32
+< PC                : 0x4000a0
+---
+> Instruction Retired : 34
+> PC                : 0x4000ac
+26c26
+< X19: 0x0
+---
+> X19: 0x3
+------------------cycle 45---------------
+4,5c4,5
+< Instruction Retired : 32
+< PC                : 0x4000a4
+---
+> Instruction Retired : 35
+> PC                : 0x4000b0
+26c26
+< X19: 0x0
+---
+> X19: 0x6
+------------------cycle 46---------------
+4,5c4,5
+< Instruction Retired : 33
+< PC                : 0x4000a8
+---
+> Instruction Retired : 36
+> PC                : 0x4000b0
+26c26
+< X19: 0x1
+---
+> X19: 0xa
+------------------cycle 47---------------
+4,5c4,5
+< Instruction Retired : 34
+< PC                : 0x4000ac
+---
+> Instruction Retired : 37
+> PC                : 0x4000b4
+26c26
+< X19: 0x3
+---
+> X19: 0xa
+39,40c39,40
+< FLAG_N: 0
+< FLAG_Z: 1
+---
+> FLAG_N: 1
+> FLAG_Z: 0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 48---------------
+4,5c4,5
+< Instruction Retired : 35
+< PC                : 0x4000b0
+---
+> Instruction Retired : 38
+> PC                : 0x4000b8
+26c26
+< X19: 0x6
+---
+> X19: 0xa
+39,40c39,40
+< FLAG_N: 0
+< FLAG_Z: 1
+---
+> FLAG_N: 1
+> FLAG_Z: 0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 49---------------
+4,5c4,5
+< Instruction Retired : 36
+< PC                : 0x4000b0
+---
+> Instruction Retired : 38
+> PC                : 0x4000bc
+39,40c39,40
+< FLAG_N: 0
+< FLAG_Z: 1
+---
+> FLAG_N: 1
+> FLAG_Z: 0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 50---------------
+4,5c4,5
+< Instruction Retired : 37
+< PC                : 0x4000b4
+---
+> Instruction Retired : 39
+> PC                : 0x4000c0
+27c27
+< X20: 0x0
+---
+> X20: 0x1
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 51---------------
+4,5c4,5
+< Instruction Retired : 38
+< PC                : 0x4000b8
+---
+> Instruction Retired : 40
+> PC                : 0x4000c4
+27c27
+< X20: 0x0
+---
+> X20: 0x3
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 52---------------
+4,5c4,5
+< Instruction Retired : 38
+< PC                : 0x4000bc
+---
+> Instruction Retired : 41
+> PC                : 0x4000c8
+27c27
+< X20: 0x0
+---
+> X20: 0x6
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 53---------------
+4,5c4,5
+< Instruction Retired : 39
+< PC                : 0x4000c0
+---
+> Instruction Retired : 42
+> PC                : 0x4000d0
+27c27
+< X20: 0x1
+---
+> X20: 0xa
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 54---------------
+4,5c4,5
+< Instruction Retired : 40
+< PC                : 0x4000c4
+---
+> Instruction Retired : 43
+> PC                : 0x4000d4
+27c27
+< X20: 0x3
+---
+> X20: 0xa
+38,39c38,39
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+---
+> X31: 0x0
+> FLAG_N: 0
+------------------cycle 55---------------
+4,5c4,5
+< Instruction Retired : 41
+< PC                : 0x4000c8
+---
+> Instruction Retired : 44
+> PC                : 0x4000d8
+27c27
+< X20: 0x6
+---
+> X20: 0xa
+38,39c38,39
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+---
+> X31: 0x0
+> FLAG_N: 0
+------------------cycle 56---------------
+4,5c4,5
+< Instruction Retired : 42
+< PC                : 0x4000cc
+---
+> Instruction Retired : 44
+> PC                : 0x4000dc
+38,39c38,39
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+---
+> X31: 0x0
+> FLAG_N: 0
+------------------cycle 57---------------
+4,5c4,5
+< Instruction Retired : 43
+< PC                : 0x4000d0
+---
+> Instruction Retired : 45
+> PC                : 0x4000e0
+28c28
+< X21: 0x0
+---
+> X21: 0x3
+38c38
+< X31: 0x5
+---
+> X31: 0x0
+------------------cycle 58---------------
+4,5c4,5
+< Instruction Retired : 44
+< PC                : 0x4000d4
+---
+> Instruction Retired : 46
+> PC                : 0x4000e0
+28c28
+< X21: 0x0
+---
+> X21: 0x7
+38c38
+< X31: 0x5
+---
+> X31: 0x0
+------------------cycle 59---------------
+4,5c4,5
+< Instruction Retired : 44
+< PC                : 0x4000d8
+---
+> Instruction Retired : 47
+> PC                : 0x4000e4
+28c28
+< X21: 0x0
+---
+> X21: 0x7
+38c38
+< X31: 0x5
+---
+> X31: 0x0
+------------------cycle 60---------------
+4,5c4,5
+< Instruction Retired : 44
+< PC                : 0x4000dc
+---
+> Instruction Retired : 48
+> PC                : 0x4000e8
+28c28
+< X21: 0x0
+---
+> X21: 0x7
+38c38
+< X31: 0x5
+---
+> X31: 0x0
+------------------cycle 61---------------
+4,5c4,5
+< Instruction Retired : 45
+< PC                : 0x4000e0
+---
+> Instruction Retired : 48
+> PC                : 0x4000ec
+28c28
+< X21: 0x3
+---
+> X21: 0x7
+38c38
+< X31: 0x5
+---
+> X31: 0x0
+------------------cycle 62---------------
+4,5c4,5
+< Instruction Retired : 46
+< PC                : 0x4000e0
+---
+> Instruction Retired : 49
+> PC                : 0x4000f0
+29c29
+< X22: 0x0
+---
+> X22: 0x1
+38c38
+< X31: 0x5
+---
+> X31: 0x0
+------------------cycle 63---------------
+4,5c4,5
+< Instruction Retired : 47
+< PC                : 0x4000e4
+---
+> Instruction Retired : 50
+> PC                : 0x4000f4
+29c29
+< X22: 0x0
+---
+> X22: 0x3
+38c38
+< X31: 0x5
+---
+> X31: 0x0
+------------------cycle 64---------------
+4,5c4,5
+< Instruction Retired : 48
+< PC                : 0x4000e8
+---
+> Instruction Retired : 51
+> PC                : 0x4000f8
+29c29
+< X22: 0x0
+---
+> X22: 0x6
+38c38
+< X31: 0x5
+---
+> X31: 0x0
+------------------cycle 65---------------
+4,5c4,5
+< Instruction Retired : 48
+< PC                : 0x4000ec
+---
+> Instruction Retired : 52
+> PC                : 0x400100
+29c29
+< X22: 0x0
+---
+> X22: 0xa
+38c38
+< X31: 0x5
+---
+> X31: 0x0
+------------------cycle 66---------------
+4,5c4,5
+< Instruction Retired : 49
+< PC                : 0x4000f0
+---
+> Instruction Retired : 53
+> PC                : 0x400104
+29c29
+< X22: 0x1
+---
+> X22: 0xa
+38,39c38,39
+< X31: 0x5
+< FLAG_N: 0
+---
+> X31: 0x0
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 67---------------
+4,5c4,5
+< Instruction Retired : 50
+< PC                : 0x4000f4
+---
+> Instruction Retired : 54
+> PC                : 0x400108
+29c29
+< X22: 0x3
+---
+> X22: 0xa
+38,39c38,39
+< X31: 0x5
+< FLAG_N: 0
+---
+> X31: 0x0
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 68---------------
+4,5c4,5
+< Instruction Retired : 51
+< PC                : 0x4000f8
+---
+> Instruction Retired : 54
+> PC                : 0x40010c
+29c29
+< X22: 0x6
+---
+> X22: 0xa
+38,39c38,39
+< X31: 0x5
+< FLAG_N: 0
+---
+> X31: 0x0
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 69---------------
+4,5c4,5
+< Instruction Retired : 52
+< PC                : 0x4000fc
+---
+> Instruction Retired : 55
+> PC                : 0x400110
+30c30
+< X23: 0x0
+---
+> X23: 0x3
+38,39c38,39
+< X31: 0x5
+< FLAG_N: 0
+---
+> X31: 0x0
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 70---------------
+4,5c4,5
+< Instruction Retired : 53
+< PC                : 0x400100
+---
+> Instruction Retired : 56
+> PC                : 0x400110
+30c30
+< X23: 0x0
+---
+> X23: 0x7
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 71---------------
+4,5c4,5
+< Instruction Retired : 54
+< PC                : 0x400104
+---
+> Instruction Retired : 57
+> PC                : 0x400114
+30c30
+< X23: 0x0
+---
+> X23: 0x7
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 72---------------
+4,5c4,5
+< Instruction Retired : 54
+< PC                : 0x400108
+---
+> Instruction Retired : 58
+> PC                : 0x400118
+30c30
+< X23: 0x0
+---
+> X23: 0x7
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 73---------------
+4,5c4,5
+< Instruction Retired : 54
+< PC                : 0x40010c
+---
+> Instruction Retired : 58
+> PC                : 0x40011c
+30c30
+< X23: 0x0
+---
+> X23: 0x7
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 74---------------
+4,5c4,5
+< Instruction Retired : 55
+< PC                : 0x400110
+---
+> Instruction Retired : 59
+> PC                : 0x400120
+30,31c30,31
+< X23: 0x3
+< X24: 0x0
+---
+> X23: 0x7
+> X24: 0x1
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 75---------------
+4,5c4,5
+< Instruction Retired : 56
+< PC                : 0x400110
+---
+> Instruction Retired : 60
+> PC                : 0x400124
+31c31
+< X24: 0x0
+---
+> X24: 0x3
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 76---------------
+4,5c4,5
+< Instruction Retired : 57
+< PC                : 0x400114
+---
+> Instruction Retired : 61
+> PC                : 0x400128
+31c31
+< X24: 0x0
+---
+> X24: 0x6
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 77---------------
+4,5c4,5
+< Instruction Retired : 58
+< PC                : 0x400118
+---
+> Instruction Retired : 62
+> PC                : 0x400130
+31c31
+< X24: 0x0
+---
+> X24: 0xa
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 78---------------
+4,5c4,5
+< Instruction Retired : 58
+< PC                : 0x40011c
+---
+> Instruction Retired : 63
+> PC                : 0x400134
+31c31
+< X24: 0x0
+---
+> X24: 0xa
+38,40c38,40
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+< FLAG_Z: 0
+---
+> X31: 0x0
+> FLAG_N: 0
+> FLAG_Z: 1
+------------------cycle 79---------------
+4,5c4,5
+< Instruction Retired : 59
+< PC                : 0x400120
+---
+> Instruction Retired : 64
+> PC                : 0x400138
+31c31
+< X24: 0x1
+---
+> X24: 0xa
+38,40c38,40
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+< FLAG_Z: 0
+---
+> X31: 0x0
+> FLAG_N: 0
+> FLAG_Z: 1
+------------------cycle 80---------------
+4,5c4,5
+< Instruction Retired : 60
+< PC                : 0x400124
+---
+> Instruction Retired : 64
+> PC                : 0x40013c
+31c31
+< X24: 0x3
+---
+> X24: 0xa
+38,40c38,40
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+< FLAG_Z: 0
+---
+> X31: 0x0
+> FLAG_N: 0
+> FLAG_Z: 1
+------------------cycle 81---------------
+4,5c4,5
+< Instruction Retired : 61
+< PC                : 0x400128
+---
+> Instruction Retired : 65
+> PC                : 0x400140
+31,32c31,32
+< X24: 0x6
+< X25: 0x0
+---
+> X24: 0xa
+> X25: 0x3
+38,40c38,40
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+< FLAG_Z: 0
+---
+> X31: 0x0
+> FLAG_N: 0
+> FLAG_Z: 1
+------------------cycle 82---------------
+4,5c4,5
+< Instruction Retired : 62
+< PC                : 0x40012c
+---
+> Instruction Retired : 66
+> PC                : 0x400140
+32c32
+< X25: 0x0
+---
+> X25: 0x7
+38,40c38,40
+< X31: 0xfffffffffffffffb
+< FLAG_N: 1
+< FLAG_Z: 0
+---
+> X31: 0x0
+> FLAG_N: 0
+> FLAG_Z: 1
+------------------cycle 83---------------
+4,5c4,5
+< Instruction Retired : 63
+< PC                : 0x400130
+---
+> Instruction Retired : 67
+> PC                : 0x400144
+32c32
+< X25: 0x0
+---
+> X25: 0x7
+40c40
+< FLAG_Z: 1
+---
+> FLAG_Z: 0
+------------------cycle 84---------------
+4,5c4,5
+< Instruction Retired : 64
+< PC                : 0x400134
+---
+> Instruction Retired : 68
+> PC                : 0x400148
+32c32
+< X25: 0x0
+---
+> X25: 0x7
+40c40
+< FLAG_Z: 1
+---
+> FLAG_Z: 0
+------------------cycle 85---------------
+4,5c4,5
+< Instruction Retired : 64
+< PC                : 0x400138
+---
+> Instruction Retired : 68
+> PC                : 0x40014c
+32c32
+< X25: 0x0
+---
+> X25: 0x7
+40c40
+< FLAG_Z: 1
+---
+> FLAG_Z: 0
+------------------cycle 86---------------
+4,5c4,5
+< Instruction Retired : 64
+< PC                : 0x40013c
+---
+> Instruction Retired : 69
+> PC                : 0x400150
+32,33c32,33
+< X25: 0x0
+< X26: 0x0
+---
+> X25: 0x7
+> X26: 0x1
+40c40
+< FLAG_Z: 1
+---
+> FLAG_Z: 0
+------------------cycle 87---------------
+4,5c4,5
+< Instruction Retired : 65
+< PC                : 0x400140
+---
+> Instruction Retired : 70
+> PC                : 0x400154
+32,33c32,33
+< X25: 0x3
+< X26: 0x0
+---
+> X25: 0x7
+> X26: 0x3
+40c40
+< FLAG_Z: 1
+---
+> FLAG_Z: 0
+------------------cycle 88---------------
+4,5c4,5
+< Instruction Retired : 66
+< PC                : 0x400140
+---
+> Instruction Retired : 71
+> PC                : 0x400158
+33c33
+< X26: 0x0
+---
+> X26: 0x6
+40c40
+< FLAG_Z: 1
+---
+> FLAG_Z: 0
+------------------cycle 89---------------
+4,5c4,5
+< Instruction Retired : 67
+< PC                : 0x400144
+---
+> Instruction Retired : 72
+> PC                : 0x400160
+33c33
+< X26: 0x0
+---
+> X26: 0xa
+38c38
+< X31: 0x5
+---
+> X31: 0x0
+------------------cycle 90---------------
+4,5c4,5
+< Instruction Retired : 68
+< PC                : 0x400148
+---
+> Instruction Retired : 73
+> PC                : 0x400164
+33c33
+< X26: 0x0
+---
+> X26: 0xa
+38,39c38,39
+< X31: 0x5
+< FLAG_N: 0
+---
+> X31: 0x0
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 91---------------
+4,5c4,5
+< Instruction Retired : 68
+< PC                : 0x40014c
+---
+> Instruction Retired : 74
+> PC                : 0x400168
+33c33
+< X26: 0x0
+---
+> X26: 0xa
+38,39c38,39
+< X31: 0x5
+< FLAG_N: 0
+---
+> X31: 0x0
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 92---------------
+4,5c4,5
+< Instruction Retired : 69
+< PC                : 0x400150
+---
+> Instruction Retired : 74
+> PC                : 0x40016c
+33c33
+< X26: 0x1
+---
+> X26: 0xa
+38,39c38,39
+< X31: 0x5
+< FLAG_N: 0
+---
+> X31: 0x0
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 93---------------
+4,5c4,5
+< Instruction Retired : 70
+< PC                : 0x400154
+---
+> Instruction Retired : 75
+> PC                : 0x40016c
+33,34c33,34
+< X26: 0x3
+< X27: 0x0
+---
+> X26: 0xa
+> X27: 0x3
+38,39c38,39
+< X31: 0x5
+< FLAG_N: 0
+---
+> X31: 0x0
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 94---------------
+4,5c4,5
+< Instruction Retired : 71
+< PC                : 0x400158
+---
+> Instruction Retired : 76
+> PC                : 0x40016c
+33,34c33,34
+< X26: 0x6
+< X27: 0x0
+---
+> X26: 0xa
+> X27: 0x7
+38,39c38,39
+< X31: 0x5
+< FLAG_N: 0
+---
+> X31: 0x0
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 95---------------
+4,5c4,5
+< Instruction Retired : 72
+< PC                : 0x40015c
+---
+> Instruction Retired : 77
+> PC                : 0x400164
+34c34
+< X27: 0x0
+---
+> X27: 0x7
+38,39c38,39
+< X31: 0x5
+< FLAG_N: 0
+---
+> X31: 0x0
+> FLAG_N: 1
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1
+------------------cycle 96---------------
+4,5c4,5
+< Instruction Retired : 73
+< PC                : 0x400160
+---
+> Instruction Retired : 77
+> PC                : 0x400164
+34c34
+< X27: 0x0
+---
+> X27: 0x7
+38c38
+< X31: 0xfffffffffffffffb
+---
+> X31: 0x0
+42c42
+< FLAG_C: 0
+---
+> FLAG_C: 1

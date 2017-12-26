@@ -1,0 +1,15 @@
+st_loop.s	
+40/40
+
+cancel_req.s	
+40/40
+
+mem.s
+10/20
+
+total:
+81
+
+comments:
+segmentation faul in the test of mem.s
+10% late penalty.

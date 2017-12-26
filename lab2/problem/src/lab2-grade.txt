@@ -1,0 +1,29 @@
+Step1-a (out of 20)
+20
+
+Step1-b (out of 20)
+20
+
+Step2-a (out of 10)
+10
+
+Step2-b (out 0f 10)
+10
+
+Step3 (out of 20)
+16.1
+
+Final-test1 (out of 10)
+7.9
+
+Final-test2 (out of 10)
+7.9
+
+Optimization (out 0f 5)
+0
+
+Overall (out of 105)
+91.9
+
+Comments:
+
